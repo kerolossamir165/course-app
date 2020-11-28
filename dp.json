@@ -1,0 +1,17 @@
+{
+  "courses": [
+    {
+      "name": "course1",
+      "price": 50,
+      "id": 1
+    }
+  ],
+  "lessons": [
+    {
+      "name": "lesson1",
+      "courseId": 1,
+      "id": 1,
+      "markDown": ""
+    }
+  ]
+}
